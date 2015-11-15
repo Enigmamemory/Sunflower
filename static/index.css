@@ -21,3 +21,10 @@ img.bg {
     margin-left: -512px;   /* 50% */
   }
 }
+
+table.display{
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
