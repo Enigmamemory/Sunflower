@@ -83,7 +83,7 @@ user agent stylesheetdiv {
 
 p.custfont {
 
-    margin: auto 50px
+    margin: auto 50px;
     
     font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
     font-size: 14px;
