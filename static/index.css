@@ -80,3 +80,15 @@ user agent stylesheetdiv {
 	position:relative;
 	top:1px;
 }
+
+p.custfont {
+
+    margin: auto 0px
+    
+    font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
