@@ -84,13 +84,24 @@ user agent stylesheetdiv {
 p.custfont {
 
     margin: auto 50px;
-    
     font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     line-height: 20px;
+}
+
+p.custfont2{
+
+    margin: auto 150px;
+    font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+
 }
 
 #pictcell{
@@ -101,4 +112,25 @@ p.custfont {
     max-width:100%;
     height:auto;
     display:block;
+}
+
+h1.title {
+
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+    font-size: 36px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+
+}
+
+h2.title{
+    
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
 }
