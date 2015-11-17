@@ -93,8 +93,13 @@ p.custfont {
     line-height: 20px;
 }
 
-td.img {
+#pictcell{
+width = 300px
+}
+
+#pictcell img {
     margin: auto;
     max-width:100%;
     height:auto;
+    display:block;
 }
