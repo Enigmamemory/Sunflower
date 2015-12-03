@@ -144,3 +144,15 @@ table.box{
     margin: auto;
 
 }
+
+td.pic{
+
+    width: 30%;
+
+}
+
+td.pictext{
+
+    width: 70%;
+
+}
