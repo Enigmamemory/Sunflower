@@ -92,6 +92,13 @@ p.custfont {
     line-height: 20px;
 }
 
+h2.custfont {
+
+    margin: auto 50px;
+    color: #00FF33;
+
+}
+
 p.custfont2{
 
     margin: auto 150px;
@@ -169,5 +176,7 @@ p.first{
 }
 
 p.second{
+
+    display: none;
 
 }
