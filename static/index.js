@@ -3,3 +3,9 @@ $(document).ready(function(){
 	$(".first").toggle();
     });
 });
+
+$(document).ready(function(){
+    $("#button2").click(function(){
+	$(".second").toggle();
+    });
+});
