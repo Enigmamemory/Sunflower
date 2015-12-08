@@ -39,6 +39,7 @@ img.bg {
 
 #banner1 {
     position: relative;
+    width: 70%;
     margin: 50px 0px;
     padding: 20px;
     background: white;
@@ -69,7 +70,6 @@ img.bg {
 }
 
 #write {
-    width: 70%;
     border: 1px solid green;
     float: left; /* add this */
 }
