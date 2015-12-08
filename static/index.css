@@ -49,6 +49,23 @@ img.bg {
 		 
 }
 
+#textwrap {
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+    overflow: hidden; /* add this to contain floated children */
+}
+#pic {
+    width: 30%;
+    float:left; /* add this */
+    border: 1px solid red;
+}
+#write {
+    width: 70%;
+    border: 1px solid green;
+    float: left; /* add this */
+}
+
 user agent stylesheetdiv {
     display: block;
 }
