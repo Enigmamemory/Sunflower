@@ -56,9 +56,8 @@ img.bg {
     overflow: hidden; /* add this to contain floated children */
 }
 
-#pictcell{
-    width: 30%;
-    float:left; /* add this */
+#pictcell1{
+    float:right; /* add this */
     border: 1px solid red;
 }
 
@@ -69,9 +68,10 @@ img.bg {
     display:block;
 }
 
-#write {
+#write1 {
+    width: 70%
     border: 1px solid green;
-    float: left; /* add this */
+    float: right; /* add this */
 }
 
 user agent stylesheetdiv {
