@@ -103,6 +103,11 @@ img.bg {
     margin: 50px auto;
 }
 
+#write4{
+    width:40%;
+    overflow: hidden;
+}
+
 user agent stylesheetdiv {
     display: block;
 }
