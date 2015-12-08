@@ -70,9 +70,13 @@ img.bg {
 }
 
 #write1 {
-    width: 70%
+    width: 70%;
     border: 1px solid green;
     float: right; /* add this */
+}
+
+#fill{
+    width: 100%;
 }
 
 user agent stylesheetdiv {
