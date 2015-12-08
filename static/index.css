@@ -56,9 +56,9 @@ img.bg {
     overflow: hidden; /* add this to contain floated children */
 }
 
-#pictcell1{
+#pictcell{
     width:30%;
-    overflow: auto;
+    overflow: hidden;
     border: 1px solid red;
 }
 
