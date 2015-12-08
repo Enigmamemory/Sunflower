@@ -97,6 +97,11 @@ img.bg {
     width: 100%;
 }
 
+#write3{
+    width: 100%;
+    margin: 50px auto;
+}
+
 user agent stylesheetdiv {
     display: block;
 }
