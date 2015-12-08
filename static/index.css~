@@ -24,7 +24,7 @@ img.bg {
 
 #page-wrap {
     position: relative;
-    width: 1100px;
+    width: 80%;
     margin: 50px auto;
     padding: 20px;
     background: white;
@@ -92,6 +92,13 @@ p.custfont {
     line-height: 20px;
 }
 
+h2.custfont {
+
+    margin: auto 50px;
+    color: #00FF33;
+
+}
+
 p.custfont2{
 
     margin: auto 150px;
@@ -133,4 +140,43 @@ h2.title{
     font-variant: normal;
     font-weight: 500;
     line-height: 26.4px;
+}
+
+table.box{
+
+    width: 80%;
+    margin: auto;
+
+}
+
+td.pic{
+
+    width: 30%;
+
+}
+
+td.pictext{
+
+    width: 70%;
+
+}
+
+#button1{
+
+}
+
+p.first{
+
+    display: none;
+
+}
+
+#button2{
+
+}
+
+p.second{
+
+    display: none;
+
 }

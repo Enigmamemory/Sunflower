@@ -24,7 +24,23 @@ img.bg {
 
 #page-wrap {
     position: relative;
-    width: 1100px;
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    -moz-box-shadow: 0 0 20px black;
+    -webkit-box-shadow: 0 0 20px black;
+    box-shadow: 0 0 20px black;
+    clear: both;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#banner0{
+    position: relative;
+    width: 100%;
     margin: 50px auto;
     padding: 20px;
     background: white;
@@ -32,9 +48,76 @@ img.bg {
     -webkit-box-shadow: 0 0 20px black;
     box-shadow: 0 0 20px black;
 }
-* {
-    margin: 0;
-    padding: 0;
+
+#banner1 {
+    position: relative;
+    width: 80%;
+    margin: 50px 0px;
+    padding: 20px;
+    background: #00FF33;
+    -moz-box-shadow: 0 0 20px black;
+    -webkit-box-shadow: 0 0 20px black;
+    box-shadow: 0 0 20px black;
+		 
+}
+
+#banner2 {
+    position: relative;
+    width: 80%;
+    margin: 50px 0px;
+    padding: 20px;
+    background: #00FF33;
+    -moz-box-shadow: 0 0 20px black;
+    -webkit-box-shadow: 0 0 20px black;
+    box-shadow: 0 0 20px black;
+    float: right;
+		 
+}
+
+#textwrap {
+    width: 95%;
+    margin: auto;
+    overflow: hidden; /* add this to contain floated children */
+}
+
+#pictcell{
+    width:40%;
+    overflow: hidden;
+    border: 1px solid red;
+}
+
+#pictcell img {
+    margin: auto;
+    max-width:100%;
+    height:auto;
+    display:block;
+}
+
+#write1 {
+    width: 59%;
+    margin: 50px 0px;
+    float: right; /* add this */
+}
+
+#write2 {
+    width: 59%;
+    margin: 50px 0px;
+    float: left; /* add this */
+}
+
+#fill{
+    width: 100%;
+}
+
+#write3{
+    width: 100%;
+    margin: 50px auto;
+}
+
+#write4{
+    margin: 50px 0px;
+    width:40%;
+    overflow: hidden;
 }
 
 user agent stylesheetdiv {
@@ -92,6 +175,12 @@ p.custfont {
     line-height: 20px;
 }
 
+h2.custfont {
+
+    margin: auto 50px;
+
+}
+
 p.custfont2{
 
     margin: auto 150px;
@@ -104,20 +193,10 @@ p.custfont2{
 
 }
 
-#pictcell{
-}
-
-#pictcell img {
-    margin: auto;
-    max-width:100%;
-    height:auto;
-    display:block;
-}
-
 h1.title {
 
     font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
-    font-size: 48px;
+    font-size: 36px;
     font-style: normal;
     font-variant: normal;
     font-weight: 500;
@@ -133,4 +212,43 @@ h2.title{
     font-variant: normal;
     font-weight: 500;
     line-height: 26.4px;
+}
+
+table.box{
+
+    width: 80%;
+    margin: auto;
+
+}
+
+td.pic{
+
+    width: 30%;
+
+}
+
+td.pictext{
+
+    width: 70%;
+
+}
+
+#button1{
+
+}
+
+p.first{
+
+    display: none;
+
+}
+
+#button2{
+
+}
+
+p.second{
+
+    display: none;
+
 }
