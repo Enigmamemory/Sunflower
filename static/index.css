@@ -55,11 +55,20 @@ img.bg {
     border: 1px solid black;
     overflow: hidden; /* add this to contain floated children */
 }
-#pic {
+
+#pictcell{
     width: 30%;
     float:left; /* add this */
     border: 1px solid red;
 }
+
+#pictcell img {
+    margin: auto;
+    max-width:100%;
+    height:auto;
+    display:block;
+}
+
 #write {
     width: 70%;
     border: 1px solid green;
@@ -138,16 +147,6 @@ p.custfont2{
     font-weight: 400;
     line-height: 20px;
 
-}
-
-#pictcell{
-}
-
-#pictcell img {
-    margin: auto;
-    max-width:100%;
-    height:auto;
-    display:block;
 }
 
 h1.title {
