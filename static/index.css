@@ -57,6 +57,7 @@ img.bg {
 }
 
 #pictcell1{
+    width:30%;
     float:right; /* add this */
     border: 1px solid red;
 }
