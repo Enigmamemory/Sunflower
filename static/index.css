@@ -39,7 +39,7 @@ img.bg {
 
 #banner1 {
     position: relative;
-    width: 70%;
+    width: 80%;
     margin: 50px 0px;
     padding: 20px;
     background: white;
@@ -57,7 +57,7 @@ img.bg {
 }
 
 #pictcell{
-    width:30%;
+    width:40%;
     overflow: hidden;
     border: 1px solid red;
 }
@@ -70,7 +70,7 @@ img.bg {
 }
 
 #write1 {
-    width: 69%;
+    width: 59%;
     float: right; /* add this */
 }
 
