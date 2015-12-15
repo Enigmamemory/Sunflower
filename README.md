@@ -5,7 +5,7 @@
 
 <h2>Team J-Triple-A</h2>
 
-<img src=http://i.imgur.com/v2Tkvcc.jpg>
+<img src="http://i.imgur.com/v2Tkvcc.jpg">
 <br>
 
 <b>Members, from left to right:</b>
