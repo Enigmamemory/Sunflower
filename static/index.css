@@ -193,7 +193,7 @@ p.custfont {
 
     margin: auto 50px;
     font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
-    font-size: 18px;
+    font-size: 2.25vmin;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
@@ -210,7 +210,7 @@ p.custfont2{
 
     margin: auto 150px;
     font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
-    font-size: 18px;
+    font-size: 2.25vmin;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
@@ -221,7 +221,7 @@ p.custfont2{
 h1.title {
 
     font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
-    font-size: 36px;
+    font-size: 6vmin;
     font-style: normal;
     font-variant: normal;
     font-weight: 500;
@@ -232,7 +232,7 @@ h1.title {
 h2.title{
     
     font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
-    font-size: 24px;
+    font-size: 3vmin;
     font-style: normal;
     font-variant: normal;
     font-weight: 500;
@@ -240,9 +240,9 @@ h2.title{
 }
 
 h1.cover{
-    margin: 15%;
+    margin: 10%;
     font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
-    font-size: 64px;
+    font-size: 8vmin;
     font-style: normal;
     font-variant: normal;
     font-weight: 500;
