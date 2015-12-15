@@ -50,10 +50,8 @@ img.bg {
     top: 50%;
     text-align: center;
     left: 0px;
-    top: 0px;
     margin: 0px;
     background-color: #ffffff;
-    width: 100%;
     opacity: 0.6;
     filter: alpha(opacity=60); /* For IE8 and earlier */
 }
