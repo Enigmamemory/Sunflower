@@ -79,4 +79,12 @@ possible exposure to the sun.</p>
 
 <h2>Moving Forward</h2>
 
+<p>As we develop this value prop, it is important to continue interviewing the customer
+segment in order to make sure that our value prop satisfied the customers' needs.
+Our current interviews showed positive feedback, so we proceeded to come up with a parts
+list and an estimated cost, which after markup totaled about $3525 dollars. From here,
+we would like to develop an actual prototype and hopefully figure out how to lower the
+cost, as well as deal with issues customers brought up when we did our last round of
+interviews, like cost and safety concerns.</p>
+
 </body>
