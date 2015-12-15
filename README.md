@@ -29,7 +29,9 @@ our interviews on the product, we concluded that smart bike locks did not
 adequetely address the issue of bike theft. We attempted to pivot to a
 similar topic in public bike locks, but subsequent interviews led us to
 the conclusion that this value prop still did not adequetely solve bike theft
-issues. For more information, check our Lock-et interviews here.</p>
+issues.</p>
+
+<p>For more information, check our Lock-et interviews here.</p>
 <br>
 
 <h2>Pivoting to Solar Panels</h2>
@@ -52,5 +54,29 @@ that corrosponds to them.</p>
 
 <p>For more information on the Product/Market Fit, <a href="https://www.youtube.com/watch?v=sSDvwQiPtgc" target="_blank">here's</a> a short video.</p>
 <br>
+
+<h2>Verifying the Customer Segment: Conducting Interviews</h2>
+
+<p>To verify that we've correctly identified the pains and gains of our current 
+customer segment (homeowners who are considering to buy solar panels),
+we went out on the streets and conducted interviews with 
+various individuals that fit towards our demographic. These interviews will 
+seek to identify what are the subjects' pains and gains and whether or not 
+our value proposition would address them.</p>
+
+<p>For more information on our interviews, consult our interviews folder.</p>
+<br>
+
+<h2>Current Value Proposition</h2>
+
+<p>Our value prop is a motorized lever system that tilts the solar panel up and down.
+Three sensors located on the panels check how much sunlight the panel is exposed to. The
+data gathered from the sensors are used to adjust the solar panel for the maximum
+possible exposure to the sun.</p>
+
+<p>Diagrams of our value prop can be found here.</p>
+<br>
+
+<h2>Moving Forward</h2>
 
 </body>
