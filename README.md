@@ -31,7 +31,7 @@ similar topic in public bike locks, but subsequent interviews led us to
 the conclusion that this value prop still did not adequetely solve bike theft
 issues.</p>
 
-<p>For more information, check our Lock-et interviews here.</p>
+<p>For more information, check our Lock-et interviews <a href="https://github.com/Enigmamemory/Sunflower/tree/master/Previous%20Inerviews%20(Locket)" target="_blank">here.</a></p>
 <br>
 
 <h2>Pivoting to Solar Panels</h2>
@@ -64,7 +64,7 @@ various individuals that fit towards our demographic. These interviews will
 seek to identify what are the subjects' pains and gains and whether or not 
 our value proposition would address them.</p>
 
-<p>For more information on our interviews, consult our interviews folder.</p>
+<p>For more information on our interviews, consult our <a href="https://github.com/Enigmamemory/Sunflower/tree/master/Interviews%20for%20Sunflower" target="_blank">interviews folder.</a></p>
 <br>
 
 <h2>Current Value Proposition</h2>
@@ -74,7 +74,7 @@ Three sensors located on the panels check how much sunlight the panel is exposed
 data gathered from the sensors are used to adjust the solar panel for the maximum
 possible exposure to the sun.</p>
 
-<p>Diagrams of our value prop can be found here.</p>
+<p>Diagrams of our value prop can be found <a href="https://github.com/Enigmamemory/Sunflower/tree/master/Solar%20Panel%20System%20Pictures" target="_blank">here.</a></p>
 <br>
 
 <h2>Moving Forward</h2>
@@ -86,5 +86,12 @@ list and an estimated cost, which after markup totaled about $3525 dollars. From
 we would like to develop an actual prototype and hopefully figure out how to lower the
 cost, as well as deal with issues customers brought up when we did our last round of
 interviews, like cost and safety concerns.</p>
+<br>
+
+<h2>Reaching Out: Website and Kickstarter</h2>
+
+<p><a href="http://enigmamemory.github.io/Sunflower/" target="_blank">Website</a></p>
+
+<p><a href="https://www.kickstarter.com/projects/930445097/1354541747?token=ab1a9e40" target="_blank">Kickstarter</a></p>
 
 </body>
