@@ -92,6 +92,8 @@ interviews, like cost and safety concerns.</p>
 
 <p><a href="http://enigmamemory.github.io/Sunflower/" target="_blank">Website</a></p>
 
+<p><a href="https://github.com/Enigmamemory/Sunflower/tree/gh-pages" target="_blank">Website source code</a></p>
+
 <p><a href="https://www.kickstarter.com/projects/930445097/1354541747?token=ab1a9e40" target="_blank">Kickstarter</a></p>
 
 </body>
