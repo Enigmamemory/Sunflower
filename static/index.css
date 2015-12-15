@@ -240,6 +240,16 @@ h2.title{
     line-height: 26.4px;
 }
 
+h1.cover{
+    margin: auto;
+    font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+    font-size: 64px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+}
+
 table.box{
 
     width: 80%;
