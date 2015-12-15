@@ -42,7 +42,17 @@ img.bg {
     position: relative;
     width: 100%;
     margin: 50px 0px;
-    background: white;
+    background-image: url("static/solar_background.jpg");
+    background-size: cover;
+}
+
+#transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    width: 100%;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 
 #pictban{
